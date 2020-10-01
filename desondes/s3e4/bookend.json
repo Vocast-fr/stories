@@ -1,0 +1,37 @@
+{
+  "bookendVersion": "v1.0",
+  "components": [
+    {
+      "text": "Des Ondes Vocast, le podcast qui parle de radio",
+      "type": "heading"
+    },
+    {
+      "links": [
+        {
+          "text": "Ecouter l'épisode sur vocast.fr",
+          "url": "https://vocast.fr/desondes/"
+        }
+      ],
+      "type": "cta-link",
+      "url": "https://www.vocast.fr"
+    },
+    {
+      "image": "https://storage.googleapis.com/makestories-202705.appspot.com/yFhzhCyVTQQZD58uBFCQpBz6xOu2/logo-desondes-vocast-1400.png",
+      "title": "Des Ondes Vocast S3E4 : @MemesDeRadio, triche sur la mesure d'audience des podcasts & partie 4 sur l'histoire de Fun Radio avec Dario",
+      "type": "small",
+      "url": "https://www.vocast.fr/desondes/s3e4"
+    }
+  ],
+  "shareProviders": [
+    {
+      "provider": "twitter",
+      "text": "La Story Des Ondes Vocast S3E4 - Des Ondes Vocast, le podcast qui parle de radio : zapping, innovation & archives",
+      "app_id": "fm0XT17SFoVXAH6GdeS3b9NZD"
+    },
+    { "app_id": "185835045578475", "provider": "facebook" },
+    "linkedin",
+    "whatsapp",
+    "email",
+    "sms"
+  ]
+}
