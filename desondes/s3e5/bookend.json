@@ -1,0 +1,37 @@
+{
+  "bookendVersion": "v1.0",
+  "components": [
+    {
+      "text": "Des Ondes Vocast, le podcast qui parle de radio",
+      "type": "heading"
+    },
+    {
+      "links": [
+        {
+          "text": "Ecouter l'épisode sur vocast.fr",
+          "url": "https://vocast.fr/desondes"
+        }
+      ],
+      "type": "cta-link",
+      "url": "https://www.vocast.fr"
+    },
+    {
+      "image": "https://storage.googleapis.com/makestories-202705.appspot.com/yFhzhCyVTQQZD58uBFCQpBz6xOu2/logo-desondes-vocast-1400.png",
+      "title": "Des Ondes Vocast S3E5 : les podcasts de Prisma Media, la construction du réseau Rire et Chansons",
+      "type": "small",
+      "url": "https://www.vocast.fr/desondes/s3e5"
+    }
+  ],
+  "shareProviders": [
+    {
+      "provider": "twitter",
+      "text": "Des Ondes Vocast S3E5 : les podcasts de Prisma Media, la construction du réseau Rire et Chansons",
+      "app_id": "fm0XT17SFoVXAH6GdeS3b9NZD"
+    },
+    { "app_id": "185835045578475", "provider": "facebook" },
+    "linkedin",
+    "whatsapp",
+    "email",
+    "sms"
+  ]
+}
