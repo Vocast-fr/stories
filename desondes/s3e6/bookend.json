@@ -1,0 +1,37 @@
+{
+  "bookendVersion": "v1.0",
+  "components": [
+    {
+      "text": "Des Ondes Vocast, le podcast qui parle de radio",
+      "type": "heading"
+    },
+    {
+      "links": [
+        {
+          "text": "Ecouter l'épisode sur vocast.fr",
+          "url": "https://vocast.fr/desondes/s3e6"
+        }
+      ],
+      "type": "cta-link",
+      "url": "https://www.vocast.fr"
+    },
+    {
+      "image": "https://storage.googleapis.com/makestories-202705.appspot.com/yFhzhCyVTQQZD58uBFCQpBz6xOu2/logo-desondes-vocast-1400.png",
+      "title": "Des Ondes Vocast S3E6 : Auteur pour le Virgin Tonic, Web Monetization, Foot & Radio (Partie 1/2)",
+      "type": "small",
+      "url": "https://www.vocast.fr/desondes/s3e6"
+    }
+  ],
+  "shareProviders": [
+    {
+      "provider": "twitter",
+      "text": "La Story Des Ondes Vocast S3E6 - Des Ondes Vocast, le podcast qui parle de radio : zapping, innovation & archives",
+      "app_id": "fm0XT17SFoVXAH6GdeS3b9NZD"
+    },
+    { "app_id": "185835045578475", "provider": "facebook" },
+    "linkedin",
+    "whatsapp",
+    "email",
+    "sms"
+  ]
+}
