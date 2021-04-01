@@ -1,0 +1,16 @@
+{
+  "bookendVersion": "v1.0",
+  "components": [],
+  "shareProviders": [
+    {
+      "provider": "twitter",
+      "text": "La Story Des Ondes Vocast S3E10 - Des Ondes Vocast, le podcast qui parle de radio : zapping, innovation & archives",
+      "app_id": "fm0XT17SFoVXAH6GdeS3b9NZD"
+    },
+    { "app_id": "185835045578475", "provider": "facebook" },
+    "linkedin",
+    "whatsapp",
+    "email",
+    "sms"
+  ]
+}
