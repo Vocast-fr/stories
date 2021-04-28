@@ -1,1 +1,32 @@
-{"bookendVersion":"v1.0","components":[{"text":"Des Ondes Vocast, le podcast qui parle de radio","type":"heading"},{"links":[{"text":"Ecouter l'épisode sur vocast.fr","url":"https://vocast.fr/desondes/s2e8"}],"type":"cta-link"},{"image":"https://storage.googleapis.com/makestories-202705.appspot.com/yFhzhCyVTQQZD58uBFCQpBz6xOu2/logo-desondes-vocast-1400.png","title":"Des Ondes Vocast","type":"small","url":"https://www.vocast.fr/desondes"}],"shareProviders":["twitter",{"app_id":"185835045578475","provider":"facebook"},"linkedin","whatsapp","email","sms"]}
+{
+  "bookendVersion": "v1.0",
+  "components": [
+    {
+      "text": "Des Ondes Vocast, le podcast qui parle de radio",
+      "type": "heading"
+    },
+    {
+      "links": [
+        {
+          "text": "Ecouter l'épisode sur vocast.fr",
+          "url": "https://vocast.fr/desondes/s2e8"
+        }
+      ],
+      "type": "cta-link"
+    },
+    {
+      "image": "https://vocast.s3.eu-west-3.amazonaws.com/desondes/logo-desondes-vocast-1400.png",
+      "title": "Des Ondes Vocast",
+      "type": "small",
+      "url": "https://www.vocast.fr/desondes"
+    }
+  ],
+  "shareProviders": [
+    "twitter",
+    { "app_id": "185835045578475", "provider": "facebook" },
+    "linkedin",
+    "whatsapp",
+    "email",
+    "sms"
+  ]
+}
